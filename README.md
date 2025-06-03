@@ -1,1 +1,1 @@
-<p>This is my portfoliogi</p>
+<p>This is my portfolio</p>
